@@ -1,4 +1,4 @@
-# 🏥 Hospital Management System (C++ + SQL + HTML/CSS)
+# 🏥 Hospital Management System (C++ + SQL )
 
 ## 📌 Features
 - Patient/Doctor login system (SQL-based authentication).
@@ -8,7 +8,6 @@
 - Backend in **C++** with MySQL integration.
 
 ## 📂 Tech Stack
-- **Frontend**: HTML, CSS
 - **Backend**: C++
 - **Database**: MySQL
 
